@@ -6,9 +6,11 @@
 	backgroung-color:teal;
 }
 
-.box_st{ width: 150 px; 
-	float :left ;
-	height: 150 px; 
+.box_st{border: solid; 
+	float: left;
+	width: 50 px; 
+	height: 50 px;
+	text-align: center;
 }
 						
 	
