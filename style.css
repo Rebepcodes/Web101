@@ -2,7 +2,13 @@
 .c_el{
 	background-color:lightblue;
 }
-.BackC{
+.Back_C{
 	backgroung-color:teal;
 }
+
+.box_st{ weight: 200 px; 
+	float :left ;
+	height: 200 px; 
+}
+						
 	
